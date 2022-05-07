@@ -6,7 +6,7 @@
 
 ## <div align="center"> RareOre </div>  
 
-Nome 
+RareOre
 
 Descrizione
 
@@ -23,7 +23,7 @@ Contributi
 soldi contatti 
 
 Autori
-cita gli autori
+[**CaptaiNinja3808**](https://github.com/CaptaiNinja3808), [**Ercaino**](https://github.com/Ercaino)
 
 Stato del progetto
 
