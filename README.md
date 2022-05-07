@@ -27,12 +27,14 @@ We present RareOre a recently opened minecraft server. You won't find any lag or
     mc.rareore.it@gmail.com
 ```
 
-# Contributi
-soldi contatti 
+# Contribute
+[**PayPal**](https://paypal.me/CaptaiNinja3808?country.x=IT&locale.x=it_IT)
 
 # Autors<br>
 [**CaptaiNinja3808**](https://github.com/CaptaiNinja3808), [**Ercaino**](https://github.com/Ercaino)
 
 # Stato del progetto
-
+    
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
+    
 # Licenze
