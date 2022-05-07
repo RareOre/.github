@@ -20,7 +20,8 @@ We present RareOre a recently opened minecraft server. You won't find any lag or
 
 # Support<br>
 [**Discord**](https://discord.gg/BygSebWJ73)<br><br>
-[**Link tree**](https://linktr.ee/RareOre_Official)
+[**Link tree**](https://linktr.ee/RareOre_Official)<br><br>
+[**Email**](mc.rareore.it@gmail.com)
 
 # Contributi
 soldi contatti 
