@@ -22,7 +22,7 @@ Spiega ai tuoi utenti dove ti possono trovare. linkvari social email contatti
 Contributi
 soldi contatti 
 
-Autori
+Autori<br>
 [**CaptaiNinja3808**](https://github.com/CaptaiNinja3808), [**Ercaino**](https://github.com/Ercaino)
 
 Stato del progetto
