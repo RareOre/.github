@@ -5,8 +5,6 @@
 </div>
 
 ## <div align="center"> RareOre </div>  
-
-RareOre
     
 ***    
 
