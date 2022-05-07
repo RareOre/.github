@@ -28,7 +28,7 @@ We present RareOre a recently opened minecraft server. You won't find any lag or
 ```
 
 # Contribute
-[**PayPal**](https://paypal.me/CaptaiNinja3808?country.x=IT&locale.x=it_IT)
+[**PayPal**](https://paypal.me/CaptaiNinja3808?country.x=IT&locale.x=it_IT) | [**Minecraft Italia**](https://www.minecraft-italia.it/server/rareore)
 
 # Autors<br>
 [**CaptaiNinja3808**](https://github.com/CaptaiNinja3808), [**Ercaino**](https://github.com/Ercaino)
