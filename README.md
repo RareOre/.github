@@ -13,12 +13,12 @@ We present RareOre a recently opened minecraft server. You won't find any lag or
 ***
 
 # Badge
-
+    
 # Installazione (opzionale)
 
-# Utilizzo (opzionale)
-
-    Open [**Minecraft**](https://www.minecraft.net/it-it/get-minecraft)(Java Edition), go to "multiplayer", "add server", 
+Open [**Minecraft**](https://www.minecraft.net/it-it/get-minecraft) (Java Edition), go to "multiplayer", ["add server"]()
+    
+# Utilizzo 
     
 # Support
 
