@@ -14,7 +14,7 @@ We present RareOre a recently opened minecraft server. You won't find any lag or
 
 # Badge 
     
-<img src="https://github.com/RareOre/.github/blob/main/img/badge1.png?raw=true" height="50" width="50">
+<img src="https://github.com/RareOre/.github/blob/main/img/badge1.png?raw=true" height="100" width="100">
     
 # Installazzione
     
