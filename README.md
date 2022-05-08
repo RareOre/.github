@@ -18,8 +18,6 @@ We present RareOre a recently opened minecraft server. You won't find any lag or
 <img src="https://github.com/RareOre/.github/blob/main/img/badge2.png?raw=true" height="115" width="100">
 <img src="https://github.com/RareOre/.github/blob/main/img/badge3.png?raw=true" height="100" width="100">
 
-# Installazzione
-    
 # Usage
 
 Open [**Minecraft**](https://www.minecraft.net/it-it/get-minecraft) (Java Edition), go to multiplayer, [**add server**](https://raw.githubusercontent.com/RareOre/.github/main/img/add%20server.png), click Done. <br> Now you can join the server.
