@@ -41,4 +41,4 @@ Open [**Minecraft**](https://www.minecraft.net/it-it/get-minecraft) (Java Editio
     
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/5)
     
-# Licenze
+# Licenses
